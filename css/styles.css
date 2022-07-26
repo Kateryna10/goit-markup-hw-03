@@ -322,7 +322,8 @@ display: flex;
 /* What are we doing */
 
 .section-work{
-   padding-top: 94px;
+
+   padding-bottom: 94px;
 }
 
 .our-work{
